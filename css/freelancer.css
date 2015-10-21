@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: white;
 }
 
 h1,
@@ -184,13 +184,18 @@ section.success {
     background: #B4006E;
 }
 
-section.success a,
-section.success a:hover,
-section.success a:focus,
-section.success a:active,
-section.success a.active {
+.btn-outline:hover,
+section.success a:hover {   /* CUANDO EL MOUSE NO ESTA ARRIBA DE LOS BOTONES  */
     outline: 0;
+    background: black;
+    color: white;
+}
+
+.btn-outline:hover,    /* CUANDO EL MOUSE NO ESTA ARRIBA DE LOS BOTONES  */
+section.success a {    
+    border: solid 2px #fff;
     color: black;
+    background: white;
 }
 
 @media(max-width:767px) {
@@ -267,15 +272,6 @@ section.success a.active {
     color: #fff;
     background: white;
     transition: all .3s ease-in-out;
-}
-
-.btn-outline:hover,
-.btn-outline:focus,
-.btn-outline:active,
-.btn-outline.active {
-    border: solid 2px #fff;
-    color: #18bc9c;
-    background: forestgreen;
 }
 
 .floating-label-form-group {

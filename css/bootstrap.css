@@ -3014,12 +3014,6 @@ select[multiple].form-group-lg .form-control {
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px;
 }
-.btn:hover,
-.btn:focus,
-.btn.focus {
-  color: #ffffff;
-  text-decoration: none;
-}
 .btn:active,
 .btn.active {
   outline: 0;
@@ -3088,13 +3082,9 @@ fieldset[disabled] .btn-default.active {
   border-color: #2c3e50;
 }
 .btn-primary:hover,
-.btn-primary:focus,
-.btn-primary.focus,
-.btn-primary:active,
-.btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #1a242f;
+  background-color: black;
   border-color: #161f29;
 }
 .btn-primary:active,
@@ -4393,7 +4383,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #2c3e50;
+  background-color: #BE143C;  /*Cambiar el color de la barra superior*/
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
@@ -4409,10 +4399,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a {
   color: #ffffff;
+  background-color: transparent;
 }
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  color: #18bc9c;
+.navbar-default .navbar-nav > li > a:hover {
+  color: #18bc9c;                   /* CAMBIAR COLOR DEL TEXTO CUANDO EL MOUSE ESTA ARRIBA */
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
@@ -4430,8 +4420,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-toggle {
   border-color: #1a242f;
 }
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
+.navbar-default .navbar-toggle:hover {
   background-color: #1a242f;
 }
 .navbar-default .navbar-toggle .icon-bar {
