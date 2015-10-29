@@ -24,6 +24,6 @@ link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
 destino=Archivos\Livestreamer
 
 [RosadinTV]
-version=49
+version=50
 link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
