@@ -4,7 +4,7 @@ link=http://rosadintv.github.io/Actualizaciones/RTV_Updater.zip
 destino=
 
 [MPV]
-version=2
+version=3
 link=http://rosadintv.github.io/Actualizaciones/MPV.zip
 destino=Archivos\MPV
 
