@@ -24,7 +24,7 @@ link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
 destino=Archivos\Livestreamer
 
 [RosadinTV]
-version=59
+version=60
 link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
@@ -32,3 +32,13 @@ destino=
 version=4
 link=http://rosadintv.github.io/Actualizaciones/Plugins.zip
 destino=Plugins
+
+[NodeJS]
+version=1
+link=http://rosadintv.github.io/Actualizaciones/NodeJS.zip
+destino=Archivos\NodeJS
+
+[Peerflix]
+version=1
+link=http://rosadintv.github.io/Actualizaciones/Peerflix.zip
+destino=Archivos\Peerflix
