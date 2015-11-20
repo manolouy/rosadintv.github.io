@@ -39,6 +39,6 @@ link=http://rosadintv.github.io/Actualizaciones/NodeJS.zip
 destino=Archivos\NodeJS
 
 [Peerflix]
-version=1
+version=2
 link=http://rosadintv.github.io/Actualizaciones/Peerflix.zip
 destino=Archivos\Peerflix
