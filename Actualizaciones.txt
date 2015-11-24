@@ -9,7 +9,7 @@ link=http://rosadintv.github.io/Actualizaciones/MPV.zip
 destino=Archivos\MPV
 
 [YouTube-DL]
-version=3
+version=4
 link=http://rosadintv.github.io/Actualizaciones/youtube-dl.zip
 destino=Archivos\MPV
 
