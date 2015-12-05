@@ -29,7 +29,7 @@ link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
 [Plugins]
-version=4
+version=5
 link=http://rosadintv.github.io/Actualizaciones/Plugins.zip
 destino=Plugins
 
