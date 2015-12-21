@@ -1,32 +1,17 @@
 [Updater]
-version=1
-link=http://rosadintv.github.io/Actualizaciones/RTV_Updater.zip
+version=2
+link=http://rosadintv.github.io/#download
 destino=
 
-[MPV]
-version=3
-link=http://rosadintv.github.io/Actualizaciones/MPV.zip
-destino=Archivos\MPV
-
-[YouTube-DL]
-version=5
-link=http://rosadintv.github.io/Actualizaciones/youtube-dl.zip
-destino=Archivos\MPV
-
-[Livestreamer]
-version=2
-link=http://rosadintv.github.io/Actualizaciones/Livestreamer.zip
-destino=Archivos\Livestreamer
+[RosadinTV]
+version=75
+link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
+destino=
 
 [RTMPDump]
 version=1
 link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
 destino=Archivos\Livestreamer
-
-[RosadinTV]
-version=74
-link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
-destino=
 
 [Plugins]
 version=5
