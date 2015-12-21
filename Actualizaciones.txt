@@ -1,5 +1,5 @@
 [Updater]
-version=2
+version=3
 link=http://rosadintv.github.io/#download
 destino=
 
