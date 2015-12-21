@@ -1,10 +1,5 @@
-[Updater]
-version=3
-link=http://rosadintv.github.io/#download
-destino=
-
 [RosadinTV]
-version=75
+version=76
 link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
