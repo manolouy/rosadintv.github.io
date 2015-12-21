@@ -11,7 +11,7 @@ destino=
 [RTMPDump]
 version=1
 link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
-destino=Archivos\Livestreamer
+destino=Archivos\RTMPDump
 
 [Plugins]
 version=5
