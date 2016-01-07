@@ -1,10 +1,10 @@
 [RosadinTV]
-version=82
+version=83
 link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
 [RTMPDump]
-version=1
+version=2
 link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
 destino=Archivos\RTMPDump
 
