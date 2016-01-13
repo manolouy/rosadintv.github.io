@@ -1,5 +1,5 @@
 [RosadinTV]
-version=90
+version=91
 link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
@@ -9,7 +9,7 @@ link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
 destino=Archivos\RTMPDump
 
 [Plugins]
-version=6
+version=7
 link=http://rosadintv.github.io/Actualizaciones/Plugins.zip
 destino=Plugins
 
