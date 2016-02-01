@@ -9,7 +9,7 @@ link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
 destino=Archivos\RTMPDump
 
 [Plugins]
-version=7
+version=8
 link=http://rosadintv.github.io/Actualizaciones/Plugins.zip
 destino=Plugins
 
