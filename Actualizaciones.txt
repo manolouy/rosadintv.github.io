@@ -1,5 +1,5 @@
 [RosadinTV]
-version=95
+version=96
 link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
