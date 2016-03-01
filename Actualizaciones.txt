@@ -1,24 +1,24 @@
 [RosadinTV]
-version=101
-link=http://rosadintv.github.io/Actualizaciones/RosadinTV.zip
+version=102
+link=https://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
 [RTMPDump]
 version=2
-link=http://rosadintv.github.io/Actualizaciones/rtmpdump.zip
+link=https://rosadintv.github.io/Actualizaciones/rtmpdump.zip
 destino=Archivos\RTMPDump
 
 [Plugins]
 version=8
-link=http://rosadintv.github.io/Actualizaciones/Plugins.zip
+link=https://rosadintv.github.io/Actualizaciones/Plugins.zip
 destino=Plugins
 
 [NodeJS]
 version=1
-link=http://rosadintv.github.io/Actualizaciones/NodeJS.zip
+link=https://rosadintv.github.io/Actualizaciones/NodeJS.zip
 destino=Archivos\NodeJS
 
 [Peerflix]
 version=2
-link=http://rosadintv.github.io/Actualizaciones/Peerflix.zip
+link=https://rosadintv.github.io/Actualizaciones/Peerflix.zip
 destino=Archivos\Peerflix
