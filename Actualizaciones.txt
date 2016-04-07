@@ -1,5 +1,5 @@
 [RosadinTV]
-version=109
+version=110
 link=https://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
