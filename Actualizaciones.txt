@@ -1,5 +1,5 @@
 [RosadinTV]
-version=122
+version=123
 link=https://rosadintv.github.io/Actualizaciones/RosadinTV.zip
 destino=
 
@@ -19,6 +19,6 @@ link=https://rosadintv.github.io/Actualizaciones/NodeJS.zip
 destino=Archivos\NodeJS
 
 [Peerflix]
-version=2
+version=3
 link=https://rosadintv.github.io/Actualizaciones/Peerflix.zip
 destino=Archivos\Peerflix
