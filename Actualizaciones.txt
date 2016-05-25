@@ -13,6 +13,11 @@ version=8
 link=https://rosadintv.github.io/Actualizaciones/Plugins.zip
 destino=Plugins
 
+[PhantomJS]
+version=1
+link=https://rosadintv.github.io/Actualizaciones/PhantomJS.zip
+destino=Archivos\PhantomJS
+
 [NodeJS]
 version=1
 link=https://rosadintv.github.io/Actualizaciones/NodeJS.zip
